@@ -1,0 +1,13 @@
+<?php $chars = array();
+$chars['fontello']['ue800'] = 'ue800';
+$chars['fontello']['ue801'] = 'ue801';
+$chars['fontello']['ue811'] = 'ue811';
+$chars['fontello']['ue81f'] = 'ue81f';
+$chars['fontello']['ue83f'] = 'ue83f';
+$chars['fontello']['ue840'] = 'ue840';
+$chars['fontello']['ue88b'] = 'ue88b';
+$chars['fontello']['uf031'] = 'uf031';
+$chars['fontello']['uf064'] = 'uf064';
+$chars['fontello']['uf275'] = 'uf275';
+$chars['fontello']['uf27a'] = 'uf27a';
+$chars['fontello']['uf27b'] = 'uf27b';
